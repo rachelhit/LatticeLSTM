@@ -1,0 +1,5 @@
+/data
+/mt_data
+/saved_model
+*.pyc
+*.out
